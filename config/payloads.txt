@@ -1,0 +1,13 @@
+'
+"
+' OR '1'='1
+' OR SLEEP(5)--
+" OR SLEEP(5)--
+' OR 1=1 --
+../../../../etc/passwd
+../../../../etc/hosts
+/etc/passwd
+/../etc/passwd
+<svg/onload=alert(1)>
+<script>alert(1)</script>
+<img src=x onerror=alert(1)>
