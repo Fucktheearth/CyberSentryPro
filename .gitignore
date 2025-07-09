@@ -1,0 +1,6 @@
+# Ignore sensitive files
+config/api_keys.conf
+reports/
+*.log
+__pycache__/
+*.pyc
