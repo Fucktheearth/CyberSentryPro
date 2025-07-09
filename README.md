@@ -1,7 +1,5 @@
 # CyberSentry Pro - Automated Penetration Testing Tool
 
-![CyberSentry Banner](https://via.placeholder.com/800x200?text=CyberSentry+Pro)
-
 > Comprehensive ethical hacking toolkit for bug bounty hunters
 
 ## Features
