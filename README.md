@@ -12,7 +12,7 @@
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/CyberSentryPro.git
+git clone https://github.com/Fucktheearth/CyberSentryPro.git
 cd CyberSentryPro
 pip install -r requirements.txt
 ```
